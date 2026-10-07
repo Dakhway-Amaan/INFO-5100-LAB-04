@@ -33,9 +33,3 @@ Checked on submit in order. The first failure shows an error dialog and focuses 
 - Continent must be selected
 
 Hobbies and photo are optional.
-
-## Run
-
-1. Open the project in NetBeans.
-2. Add the calendar date-picker JAR under **Project Properties → Libraries**.
-3. Run `MainJFrame` (`F6`).
